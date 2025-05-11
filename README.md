@@ -1,2 +1,3 @@
 # Team06-NMS
-Midterm
+### Computer Vision - Midterm
+
